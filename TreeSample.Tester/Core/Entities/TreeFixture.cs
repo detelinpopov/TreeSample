@@ -1,4 +1,6 @@
-﻿using NUnit.Framework;
+﻿using System;
+
+using NUnit.Framework;
 
 using TreeSample.Core.Entities;
 
@@ -20,6 +22,14 @@ namespace TreeSample.Tester.Core.Entities
 			// Assert
 			Assert.IsNotNull(root);
 			Assert.AreEqual(rootValue, root.Value);
+		}
+
+		[Test]
+		[ExpectedException(typeof(ArgumentException))]
+		public void Tree_ThrowsException_WhenTheValueIsNull()
+		{
+			// Arrange
+			Tree<object> tree = new Tree<object>(null);
 		}
 	}
 }
