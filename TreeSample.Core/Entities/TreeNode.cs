@@ -45,7 +45,7 @@ namespace TreeSample.Core.Entities
 		{
 			if (children.Count <= index)
 			{
-				throw new IndexOutOfRangeException("Child node index is out the range.");
+				throw new IndexOutOfRangeException("Child node index is out of range.");
 			}
 
 			return children[index];
