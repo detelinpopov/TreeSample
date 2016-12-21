@@ -53,6 +53,8 @@ namespace TreeSample.Tester.Core.Entities
 			TreeNode<int> treeNode = new TreeNode<int>(5);
 			TreeNode<int> child = new TreeNode<int>(6);
 			child.HasParent = true;
+
+			// Act
 			treeNode.AddChild(child);
 		}
 
@@ -62,6 +64,8 @@ namespace TreeSample.Tester.Core.Entities
 		{
 			// Arrange
 			TreeNode<int> treeNode = new TreeNode<int>(5);
+
+			// Act
 			treeNode.AddChild(null);
 		}
 
@@ -126,12 +130,12 @@ namespace TreeSample.Tester.Core.Entities
 			// Arrange
 			TreeNode<int> treeNode = new TreeNode<int>(5);
 			TreeNode<int> child = new TreeNode<int>(6);
-			treeNode.AddChild(child);
 
 			// Act
-			bool hasParent = child.HasParent;
+			treeNode.AddChild(child);
 
 			// Assert
+			bool hasParent = child.HasParent;
 			Assert.IsTrue(hasParent);
 		}
 	}
