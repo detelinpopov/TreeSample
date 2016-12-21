@@ -3,3 +3,8 @@ C:\Users\devadmin\Desktop\TreeSample.Core\bin\Debug\TreeSample.Core.pdb
 C:\Users\devadmin\Desktop\TreeSample.Core\obj\Debug\TreeSample.Core.csprojResolveAssemblyReference.cache
 C:\Users\devadmin\Desktop\TreeSample.Core\obj\Debug\TreeSample.Core.dll
 C:\Users\devadmin\Desktop\TreeSample.Core\obj\Debug\TreeSample.Core.pdb
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Core\bin\Debug\TreeSample.Core.dll
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Core\bin\Debug\TreeSample.Core.pdb
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Core\obj\Debug\TreeSample.Core.csprojResolveAssemblyReference.cache
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Core\obj\Debug\TreeSample.Core.dll
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Core\obj\Debug\TreeSample.Core.pdb

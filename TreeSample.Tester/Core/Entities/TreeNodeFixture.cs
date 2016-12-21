@@ -83,6 +83,22 @@ namespace TreeSample.Tester.Core.Entities
 		}
 
 		[Test]
+		public void ChildrenCount_ReturnsCorrectValue()
+		{
+			// Arrange
+			TreeNode<int> treeNode = new TreeNode<int>(5);
+			TreeNode<int> child1 = new TreeNode<int>(6);
+			TreeNode<int> child2 = new TreeNode<int>(7);
+
+			// Act
+			treeNode.AddChild(child1);
+			treeNode.AddChild(child2);
+
+			// Assert
+			Assert.AreEqual(2, treeNode.ChildrenCount);
+		}
+
+		[Test]
 		public void GetChild_ReturnsCorrectNode_WhenThereIsExistingChild()
 		{
 			// Arrange
