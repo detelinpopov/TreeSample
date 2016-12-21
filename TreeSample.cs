@@ -22,6 +22,9 @@ namespace TreeSample
 			PrintTree(tree.Root, string.Empty);
 		}
 
+		/// <summary>
+		///     Depth first search approach
+		/// </summary>
 		private static void PrintTree(TreeNode<int> root, string spaces)
 		{
 			if (root == null)
