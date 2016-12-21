@@ -1,0 +1,7 @@
+C:\Users\devadmin\Desktop\TreeSample\bin\Debug\TreeSample.exe
+C:\Users\devadmin\Desktop\TreeSample\bin\Debug\TreeSample.pdb
+C:\Users\devadmin\Desktop\TreeSample\obj\Debug\TreeSample.exe
+C:\Users\devadmin\Desktop\TreeSample\obj\Debug\TreeSample.pdb
+C:\Users\devadmin\Desktop\TreeSample\bin\Debug\TreeSample.Core.dll
+C:\Users\devadmin\Desktop\TreeSample\bin\Debug\TreeSample.Core.pdb
+C:\Users\devadmin\Desktop\TreeSample\obj\Debug\TreeSample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Tester\bin\Debug\TreeSample.Tester.dll
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Tester\bin\Debug\TreeSample.Tester.pdb
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Tester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Tester\bin\Debug\nunit.framework.dll
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Tester\bin\Debug\TreeSample.Core.dll
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Tester\bin\Debug\TreeSample.Core.pdb
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Tester\obj\Debug\TreeSample.Tester.csprojResolveAssemblyReference.cache
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Tester\obj\Debug\TreeSample.Tester.dll
+C:\Users\devadmin\Desktop\TreeSample\TreeSample.Tester\obj\Debug\TreeSample.Tester.pdb
